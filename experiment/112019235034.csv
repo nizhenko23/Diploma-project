@@ -1,0 +1,3 @@
+round_epochs,val_loss,val_acc,val_precision,val_recall,val_f1score,val_matthews,val_rmse,val_mean_squared_error,loss,acc,precision,recall,f1score,matthews,rmse,mean_squared_error,activation,batch_size,dropout,epochs,first_neuron,hidden_layers,hidden_neuron,last_activation,losses,lr,optimizer
+500,83.2145004272461,0.0,1.0,1.0,1.0,0.0,9.054999351501465,83.2145004272461,81.77225036621094,0.0,1.0,1.0,1.0,0.0,8.999999,81.772255,relu,32,0.0,500,4,0,16,softmax,mean_squared_error,0.001,<class 'keras.optimizers.Adam'>
+500,83.2145004272461,0.0,1.0,1.0,1.0,0.0,9.054999351501465,83.2145004272461,81.77225036621094,0.0,1.0,1.0,1.0,0.0,9.0,81.772255,relu,32,0.0,500,4,0,16,softmax,mean_squared_error,0.01,<class 'keras.optimizers.Adam'>

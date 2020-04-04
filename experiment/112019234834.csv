@@ -1,0 +1,7 @@
+round_epochs,val_loss,val_acc,val_precision,val_recall,val_f1score,val_matthews,val_rmse,val_mean_squared_error,loss,acc,precision,recall,f1score,matthews,rmse,mean_squared_error,activation,batch_size,dropout,epochs,first_neuron,hidden_layers,last_activation,losses,lr,optimizer
+500,77.29600524902344,0.0,1.0,1.0,1.0,0.0,8.75,77.29600524902344,83.25187225341797,0.0,1.0,1.0,1.0,0.0,9.07625,83.25188,relu,32,0.0,500,4,0,softmax,mean_squared_error,0.001,<class 'keras.optimizers.Adam'>
+500,77.29600524902344,0.0,1.0,1.0,1.0,0.0,8.75,77.29600524902344,83.25187683105469,0.0,1.0,1.0,1.0,0.0,9.07625,83.25188,relu,32,0.0,500,4,0,softmax,mean_squared_error,0.01,<class 'keras.optimizers.Adam'>
+500,77.29600524902344,0.0,1.0,1.0,1.0,0.0,8.75,77.29600524902344,83.25187377929687,0.0,1.0,1.0,1.0,0.0,9.07625,83.25188,relu,32,0.0,500,4,0,softmax,mean_squared_error,0.0005,<class 'keras.optimizers.Adam'>
+500,608.8421020507812,0.0,0.0,0.0,0.0,0.0,24.644485473632812,608.8421020507812,601.477197265625,0.0,0.0,0.0,0.0,0.0,24.496094,601.4772,relu,32,0.0,500,4,0,linear,mean_squared_error,0.001,<class 'keras.optimizers.Adam'>
+500,14.726926803588867,0.0,1.0,1.0,1.0,0.0,3.717092990875244,14.726926803588867,18.656963348388672,0.0,1.0,1.0,1.0,0.0,4.179899,18.656963,relu,32,0.0,500,4,0,linear,mean_squared_error,0.01,<class 'keras.optimizers.Adam'>
+500,158.7506866455078,0.0,0.0,0.0,0.0,0.0,12.564619064331055,158.7506866455078,166.97523803710936,0.0,0.0,0.0,0.0,0.0,12.885333,166.97525,relu,32,0.0,500,4,0,linear,mean_squared_error,0.0005,<class 'keras.optimizers.Adam'>

@@ -1,0 +1,3 @@
+round_epochs,val_loss,val_acc,val_f1score,loss,acc,f1score,batch_size,dropout,epochs,first_neuron,hidden_layers,hidden_neuron,last_activation,lr
+500,0.19485019682134902,0.0,0.0,0.1952890355175105,0.0,0.0,32,0,500,16,1,16,sigmoid,0.1
+500,0.19480692803859712,0.0,0.0,0.19525181944794776,0.0,0.0,32,0,500,16,1,16,sigmoid,0.01
