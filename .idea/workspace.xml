@@ -71,6 +71,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="186" key="#Inspections" timestamp="1587990894954">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="186" key="#Inspections/0.0.1920.1050@0.0.1920.1050" timestamp="1587990894954" />
     <state x="552" y="186" key="#Notifications" timestamp="1586540302947">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -115,9 +119,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="926" y="174" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1586540491266" />
-    <state x="668" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1587390583089">
+    <state x="668" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1587989065806">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="668" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1587390583089" />
+    <state x="668" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1587989065806" />
   </component>
 </project>
